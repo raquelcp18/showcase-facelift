@@ -2,7 +2,7 @@
 
 ![PrimeFaces icon](https://www.primefaces.org/wp-content/uploads/2016/10/prime_logo_new.png)
 
-### Getting Started
+### Getting Started    
 
 Deployable version of **PrimeFaces Showcase** war file can be downloaded manually or build it from sources.
 
